@@ -1,2 +1,3 @@
-# rust_crear_proyecto
-Como Crear un Proyecto Con Rust
+# Como Crear un Proyecto Con Rust
+Tutorial YouTube: https://youtu.be/UvAAZniwNVE 
+Tutorial Blog: https://blog.nubecolectiva.com/como-crear-un-proyecto-con-rust/ 
